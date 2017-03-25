@@ -2,6 +2,10 @@ html {
   font-family: "Droid Serif", serif;
 }
 
+h1 {
+  font-weight: bold;
+}
+
 .green {
   background-color: #70ad55;
   color: #fff;
